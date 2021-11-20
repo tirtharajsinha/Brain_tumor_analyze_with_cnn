@@ -11,7 +11,7 @@
 
 ## requirements
 > before use the codes make sure requirements are installed in your workspace.<br>
-> get requirements [list](#)<br>
+> get requirements [list](requirements.txt)<br>
 > dataset [link](https://www.kaggle.com/navoneel/brain-mri-images-for-brain-tumor-detection)<br>
 
 ## importent Links
@@ -25,4 +25,5 @@
 8. pythonanywhere - [visit](https://www.pythonanywhere.com/)
 
 ## other notes
+1. use it virtual environment(anaconda/virtualenv) to get get rid of GPU related worning/error
 
